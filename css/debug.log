@@ -1,0 +1,2 @@
+[0221/194046.315:ERROR:registration_protocol_win.cc(56)] CreateFile: El sistema no puede encontrar el archivo especificado. (0x2)
+[0221/194053.308:ERROR:registration_protocol_win.cc(56)] CreateFile: El sistema no puede encontrar el archivo especificado. (0x2)
